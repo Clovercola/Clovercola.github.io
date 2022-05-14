@@ -1,5 +1,5 @@
 ## Hey there. My name is Sean O'Brien.
-##I like to design games, write, and program.
+I like to design games, write, and program.
 
 Here's some of my writing:
 -
